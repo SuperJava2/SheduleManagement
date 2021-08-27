@@ -1,0 +1,19 @@
+[
+    {
+        "day": "Friday",
+        "classes" : [
+            {
+                "name": "Temas Selectos de física:DIBUJO-RAUL",
+                "url" : "https://www.google.com",
+                "startHour" : "14:55:00",
+                "endHour" : "13:30:00"
+            },
+            {
+                "name": "Temas Selectos de física:DIBUJO-RAUL",
+                "url" : "https://www.youtube.com",
+                "startHour" : "15:00:00",
+                "endHour" : "13:30:00"
+            }
+        ]
+    }
+]
