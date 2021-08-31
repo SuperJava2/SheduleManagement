@@ -9,10 +9,11 @@ import webbrowser
 import json
 import time
 import re
+import tkinter as tk
 
 def notificador(title,body):
     toaster = ToastNotifier();
-    toaster.show_toast(title, body, duration = 10, icon_path='assets/icono.ico')
+    toaster.show_toast(title, body, duration = 10, icon_path='../assets/icono.ico')
 
 def open_browser(url):
     webbrowser.open(url);
@@ -23,7 +24,7 @@ def get_date():
 def read_json_day(filename):
     date = get_date()
     
-    data = json.load(open(filename))
+    data = json.load(open(filename,encoding="utf8"))
     
     for x in data:
         listClasses = []
@@ -38,9 +39,9 @@ def time_to_sec(time_str):
     return  timedelta(**dict(zip("hours minutes seconds".split(), map(int, re.findall('\d+', time_str))))).total_seconds()
 
 
+
 def main():
-    
-    shedule = read_json_day('lib/shedule.json')
+    shedule = read_json_day('shedule.json')
     
     for x in shedule.myclass:
         tiempoActual = time_to_sec(get_date()['time'])

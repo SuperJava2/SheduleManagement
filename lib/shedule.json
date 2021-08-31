@@ -3,17 +3,206 @@
         "day": "Monday",
         "classes" : [
             {
-                "name": "Temas Selectos de fisica:DIBUJO-RAUL",
-                "url" : "https://www.google.com",
-                "startHour" : "12:10:00",
-                "endHour" : "13:30:00"
+                "name": "CALCULO DIFERENCIAL",
+                "url" : "https://meet.google.com/pmr-qsja-oar?pli=1&authuser=1",
+                "startHour" : "07:30:00",
+                "endHour" : "09:00:00"
             },
             {
-                "name": "Temas Selectos de fisica:DIBUJO-RAUL",
-                "url" : "https://www.youtube.com",
-                "startHour" : "12:11:00",
+                "name": "TEMAS SELECTOS DE FÍSICA",
+                "url" : "https://meet.google.com/inc-ytxn-ifi",
+                "startHour" : "09:00:00",
+                "endHour" : "09:45:00"
+            },
+            {
+                "name": "Ingles Intermedio",
+                "url" : "https://meet.google.com/yhb-bjnp-obp",
+                "startHour" : "09:45:00",
+                "endHour" : "10:30:00"
+            },
+            {
+                "name": "Logica",
+                "url" : "https://meet.google.com/jpg-dmyz-noc",
+                "startHour" : "11:15:00",
+                "endHour" : "12:00:00"
+            },
+            {
+                "name": "Valores",
+                "url" : "https://meet.google.com/oxy-jgbe-gxx",
+                "startHour" : "12:00:00",
+                "endHour" : "12:45:00"
+            },
+            {
+                "name": "Estructura Economica",
+                "url" : "https://meet.google.com/wib-mrzy-utv",
+                "startHour" : "12:45:00",
                 "endHour" : "13:30:00"
             }
         ]
+    },
+    {
+        "day": "Tuesday",
+        "classes" : [
+            {
+                "name": "CALCULO DIFERENCIAL",
+                "url" : "https://meet.google.com/pmr-qsja-oar?pli=1&authuser=1",
+                "startHour" : "07:30:00",
+                "endHour" : "08:15:00"
+            },
+            {
+                "name": "TEMAS SELECTOS DE FÍSICA",
+                "url" : "https://meet.google.com/inc-ytxn-ifi",
+                "startHour" : "08:15:00",
+                "endHour" : "09:45:00"
+            },
+            {
+                "name": "Ingles Intermedio",
+                "url" : "https://meet.google.com/yhb-bjnp-obp",
+                "startHour" : "09:45:00",
+                "endHour" : "10:30:00"
+            },
+            {
+                "name": "Valores",
+                "url" : "https://meet.google.com/oxy-jgbe-gxx",
+                "startHour" : "11:15:00",
+                "endHour" : "12:45:00"
+            },
+            {
+                "name": "Logica",
+                "url" : "https://meet.google.com/jpg-dmyz-noc",
+                "startHour" : "12:00:00",
+                "endHour" : "12:45:00"
+            },
+            {
+                "name": "Estructura Economica",
+                "url" : "https://meet.google.com/wib-mrzy-utv",
+                "startHour" : "12:45:00",
+                "endHour" : "13:30:00"
+            }    
+        ]
+    },
+    {
+        "day": "Wednesday",
+        "classes" : [
+            {
+                "name": "Computacion",
+                "url" : "https://meet.google.com/enm-gymz-rvj",
+                "startHour" : "07:30:00",
+                "endHour" : "08:15:00"
+            },
+            {
+                "name": "Habilidades Comunicativas",
+                "url" : "https://meet.google.com/qzw-cuud-maj",
+                "startHour" : "08:15:00",
+                "endHour" : "09:00:00"
+            },
+            {
+                "name": "Geografia",
+                "url" : "https://meet.google.com/gbn-wncf-bjy",
+                "startHour" : "09:00:00",
+                "endHour" : "09:45:00"
+            },
+            {
+                "name": "Ingles Intermedio",
+                "url" : "https://meet.google.com/yhb-bjnp-obp",
+                "startHour" : "09:45:00",
+                "endHour" : "10:30:00"
+            },
+            {
+                "name": "Estructura Economica",
+                "url" : "https://meet.google.com/wib-mrzy-utv",
+                "startHour" : "11:15:00",
+                "endHour" : "12:00:00"
+            },
+            {
+                "name": "Habilidades Comunicativas",
+                "url" : "https://meet.google.com/qzw-cuud-maj",
+                "startHour" : "12:00:00",
+                "endHour" : "12:45:00"
+            },
+            {
+                "name": "Etimologia",
+                "url" : "https://meet.google.com/rxz-psir-cgd",
+                "startHour" : "12:45:00",
+                "endHour" : "13:30:00"
+            }
+                    ]
+    },
+    {
+        "day": "Thursday",
+        "classes" : [
+            {
+                "name": "Valores",
+                "url" : "https://meet.google.com/oxy-jgbe-gxx",
+                "startHour" : "07:30:00",
+                "endHour" : "08:15:00"
+            },
+            {
+                "name": "Geografia",
+                "url" : "https://meet.google.com/gbn-wncf-bjy",
+                "startHour" : "08:15:00",
+                "endHour" : "09:00:00"
+            },
+            {
+                "name": "Computacion",
+                "url" : "https://meet.google.com/enm-gymz-rvj",
+                "startHour" : "09:00:00",
+                "endHour" : "09:45:00"
+            },
+            {
+                "name": "Etimologia",
+                "url" : "https://meet.google.com/rxz-psir-cgd",
+                "startHour" : "09:45:00",
+                "endHour" : "10:30:00"
+            },
+            {
+                "name": "Ingles Intermedio",
+                "url" : "https://meet.google.com/yhb-bjnp-obp",
+                "startHour" : "11:15:00",
+                "endHour" : "12:45:00"
+            },
+            {
+                "name": "Etimologia",
+                "url" : "https://meet.google.com/rxz-psir-cgd",
+                "startHour" : "12:45:00",
+                "endHour" : "13:30:00"
+            }
+                    ]
+    },
+    {
+        "day": "Friday",
+        "classes" : [
+            {
+                "name": "Computacion",
+                "url" : "https://meet.google.com/enm-gymz-rvj",
+                "startHour" : "07:30:00",
+                "endHour" : "08:15:00"
+            },
+            {
+                "name": "Etimologia",
+                "url" : "https://meet.google.com/rxz-psir-cgd",
+                "startHour" : "08:15:00",
+                "endHour" : "08:50:00"
+            },
+            {
+                "name": "Geografia",
+                "url" : "https://meet.google.com/gbn-wncf-bjy",
+                "startHour" : "08:50:00",
+                "endHour" : "09:30:00"
+            },
+            {
+                "name": "Ingles Intermedio",
+                "url" : "https://meet.google.com/yhb-bjnp-obp",
+                "startHour" : "09:30:00",
+                "endHour" : "10:10:00"
+            },
+            {
+                "name": "Dibujo",
+                "url" : "https://meet.google.com/inc-ytxn-ifi",
+                "startHour" : "10:50:00",
+                "endHour" : "13:00:00"
+            }
+                    ]
     }
+
 ]
