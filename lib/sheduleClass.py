@@ -13,7 +13,7 @@ import tkinter as tk
 
 def notificador(title,body):
     toaster = ToastNotifier();
-    toaster.show_toast(title, body, duration = 10, icon_path='../assets/icono.ico')
+    toaster.show_toast(title, body, duration = 100, icon_path='../assets/icono.ico')
 
 def open_browser(url):
     webbrowser.open(url);
@@ -49,6 +49,7 @@ def main():
 
         aux = tiempoClase-tiempoActual
         # print('Esperando: ' + aux + " segundos")
+        print(x.name)
         print(aux)
         
         if aux > 0 :
